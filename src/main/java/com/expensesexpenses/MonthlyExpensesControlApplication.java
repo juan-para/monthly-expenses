@@ -8,6 +8,7 @@ public class MonthlyExpensesControlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MonthlyExpensesControlApplication.class, args);
+		// commit test MEP-49
 	}
 
 }
